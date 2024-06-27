@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">travel</string>
+    <string name="introTitle">Explore the<font color='#3f95ec'>\n World</font>  with us</string>
+    <string name="subIntro">Lorem ipsum dolor sit amet, consectetur\n
+        adipiscing elit. In sed congue felis.</string>
+</resources>
